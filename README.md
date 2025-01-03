@@ -56,6 +56,7 @@ assign a[0]=(y[1]|y[3]|y[5]|y[7]);
 endmodule
 ```
 Developed by: Thilak raj .P 
+
 RegisterNumber:24900585
 
 
@@ -64,7 +65,7 @@ RegisterNumber:24900585
 
 
 **TIMING DIAGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/user-attachments/assets/5cebd839-133e-4a05-8f47-438a7499ce22)
+![image](https://github.com/user-attachments/assets/6b064d2f-1931-4c5e-9875-6976fa176598)
 
 **RESULT**
 
